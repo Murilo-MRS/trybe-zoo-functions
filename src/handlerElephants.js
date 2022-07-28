@@ -1,5 +1,6 @@
 const { species } = require('../data/zoo_data');
-//pege o elemento da specie elephant que retorna o obj de elephant
+// pege o elemento da specie elephant que retorna o obj de elephant
+
 const getElephants = () =>
   species.find((specie) => specie.name === 'elephants');
 // calcula media de idade dos elefantes residents
@@ -18,7 +19,7 @@ const computeData = (param, elephants) => {
     return null;
   }
 };
-// 
+
 const handlerElephants = (param) => {
   if (param === undefined) {
     return undefined;
