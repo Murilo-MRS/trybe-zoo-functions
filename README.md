@@ -5,21 +5,35 @@ Projeto realizado durante módulo de fundamentos do curso de desenvolvimento web
 <details>
   <summary>O que foi feito</summary>
 
-  - Neste projeto, foi desenvolvido uma página de formulário para cadastro de estudantes apenas utlizando HTML```forms``` e Bootstrap para estilização. :art: :artist:
-<!--
-  ![exemplo de forms do trybewarts](./formulario.gif)
--->
+  <p>
+  Neste projeto, tem como objetivo simular um sistema de relatório de um zoológico. O sistema possui informações a respeito dos animais presentes no zoológico, colaboradores, horários de funcionamento e uma tabela de preços que varia de acordo com a idade das pessoas que o visitam.
+  </p> 
+
 </details>
 <details>
+  <summary>Estrutura do projeto</summary>
+
+  <br/>
+  A pasta src é composta por arquivos referentes a cada uma das funções que você irá implementar, a pasta data contém o arquivo zoo_data.js, que armazena os dados que você vai utilizar para retornar as informações sobre o zoológico.
+
+</details>
+
+<details>
   <summary>Habilidades</summary>
+
+  - Utilizar novas funcionalidades do ES6, como arrow functions, template literals, spread operator, parâmetro rest e object destructuring;
+  - Compor objetos e ler suas informações com diferentes métodos;
+  - Manipular arrays com funções como map, filter e reduce;
+  - Testar suas funções com Jest.
 
 </details>
 <details>
   <summary>Para rodar o projeto</summary>
 
   - Clone o projeto desse repositório para sua máquina;
-  - Utilize a extensão ```live preview``` do vscode;
-
+  - Execute ```npm install```;
+  - Utilize a extensão ```code runner``` ou ```console.log``` para executar as funcões;
+  
 </details>
 <details>
   <summary>Devs responsáveis</summary>
