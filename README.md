@@ -13,8 +13,8 @@ Projeto realizado durante módulo de fundamentos do curso de desenvolvimento web
 <details>
   <summary>Estrutura do projeto</summary>
 
-  <br/>
-  A pasta src é composta por arquivos referentes a cada uma das funções que você irá implementar, a pasta data contém o arquivo zoo_data.js, que armazena os dados que você vai utilizar para retornar as informações sobre o zoológico.
+  - A pasta src é composta por arquivos referentes a cada uma das funções que você irá implementar, a pasta data contém o arquivo zoo_data.js, que armazena os dados que você vai utilizar para retornar as informações sobre o zoológico.
+  - A pasta test, contém os arquivos em que os testes unitários (JEST) correspondentes a cada função, o nome do arquivo é o nome da função alvo acrescido do sufixo .test.js
 
 </details>
 
